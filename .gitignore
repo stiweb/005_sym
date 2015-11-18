@@ -1,7 +1,6 @@
 # Cache and logs (Symfony2)
 /app/cache/*
-/LICENSE
-/README.md
+
 /app/logs/*
 !app/cache/.gitkeep
 !app/logs/.gitkeep
