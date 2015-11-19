@@ -1,7 +1,7 @@
 Symfony Standard Edition
 ========================
 
-test nuovo branch_002
+branch_003
 
 Welcome to the Symfony Standard Edition - a fully-functional Symfony2
 application that you can use as the skeleton for your new applications.
